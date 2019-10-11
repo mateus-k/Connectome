@@ -1,0 +1,138 @@
+# Created by Octave 4.2.2, Sat Aug 10 12:06:21 2019 CEST <mateusk@mateusk-Aspire-5733Z>
+# name: anat_lbls
+# type: sq_string
+# elements: 66
+# length: 5
+rBSTS
+# length: 5
+ rCAC
+# length: 5
+ rCMF
+# length: 5
+ rCUN
+# length: 5
+ rENT
+# length: 5
+  rFP
+# length: 5
+ rFUS
+# length: 5
+  rIP
+# length: 5
+  rIT
+# length: 5
+rISTC
+# length: 5
+rLOCC
+# length: 5
+ rLOF
+# length: 5
+rLING
+# length: 5
+ rMOF
+# length: 5
+  rMT
+# length: 5
+rPARC
+# length: 5
+rPARH
+# length: 5
+rPOPE
+# length: 5
+rPORB
+# length: 5
+rPTRI
+# length: 5
+rPCAL
+# length: 5
+rPSTC
+# length: 5
+  rPC
+# length: 5
+rPREC
+# length: 5
+rPCUN
+# length: 5
+ rRAC
+# length: 5
+ rRMF
+# length: 5
+  rSF
+# length: 5
+  rSP
+# length: 5
+  rST
+# length: 5
+rSMAR
+# length: 5
+  rTP
+# length: 5
+  rTT
+# length: 5
+lBSTS
+# length: 5
+ lCAC
+# length: 5
+ lCMF
+# length: 5
+ lCUN
+# length: 5
+ lENT
+# length: 5
+  lFP
+# length: 5
+ lFUS
+# length: 5
+  lIP
+# length: 5
+  lIT
+# length: 5
+lISTC
+# length: 5
+lLOCC
+# length: 5
+ lLOF
+# length: 5
+lLING
+# length: 5
+ lMOF
+# length: 5
+  lMT
+# length: 5
+lPARC
+# length: 5
+lPARH
+# length: 5
+lPOPE
+# length: 5
+lPORB
+# length: 5
+lPTRI
+# length: 5
+lPCAL
+# length: 5
+lPSTC
+# length: 5
+  lPC
+# length: 5
+lPREC
+# length: 5
+lPCUN
+# length: 5
+ lRAC
+# length: 5
+ lRMF
+# length: 5
+  lSF
+# length: 5
+  lSP
+# length: 5
+  lST
+# length: 5
+lSMAR
+# length: 5
+  lTP
+# length: 5
+  lTT
+
+
